@@ -1,7 +1,9 @@
 # BMI Calculator React js 
-APP URL: https://stalwart-pony-b330af.netlify.app/
-Version: 1.0
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+# APP URL: https://stalwart-pony-b330af.netlify.app/
+# Version: 1.0
+
+# This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
